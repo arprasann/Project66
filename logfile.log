@@ -1,0 +1,18 @@
+2023-10-26 20:10:42,205 :INFO : test_loginpage :Valid Login Page Script started...
+2023-10-26 20:10:44,219 :INFO : test_loginpage :Enter the valid Username
+2023-10-26 20:10:44,251 :INFO : test_loginpage :Succssfully fetched data from dataload
+2023-10-26 20:10:46,257 :INFO : test_loginpage :Enter The Valid Password
+2023-10-26 20:10:48,285 :INFO : test_loginpage :Click On Login Button
+2023-10-26 20:10:51,346 :INFO : test_loginpage :Login Page scrip successfully Executed
+2023-10-26 20:11:17,165 :INFO : test_verify_tasks :Task Scrip Statrted
+2023-10-26 20:11:24,757 :INFO : test_verify_tasks :None
+2023-10-26 20:11:33,493 :INFO : test_verify_tasks :Tasks scrip Executed Successfully..
+2023-10-26 20:14:08,613 :INFO : test_loginpage :Valid Login Page Script started...
+2023-10-26 20:14:10,623 :INFO : test_loginpage :Enter the valid Username
+2023-10-26 20:14:10,662 :INFO : test_loginpage :Succssfully fetched data from dataload
+2023-10-26 20:14:12,676 :INFO : test_loginpage :Enter The Valid Password
+2023-10-26 20:14:14,702 :INFO : test_loginpage :Click On Login Button
+2023-10-26 20:14:17,425 :INFO : test_loginpage :Login Page scrip successfully Executed
+2023-10-26 20:14:43,506 :INFO : test_verify_tasks :Task Scrip Statrted
+2023-10-26 20:14:51,109 :INFO : test_verify_tasks :None
+2023-10-26 20:14:59,789 :INFO : test_verify_tasks :Tasks scrip Executed Successfully..

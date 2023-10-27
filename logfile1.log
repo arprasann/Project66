@@ -1,0 +1,30 @@
+2023-10-26 21:18:52,232 :INFO : test_loginpage :Valid Login Page Script started...
+2023-10-26 21:18:54,239 :INFO : test_loginpage :Enter the valid Username
+2023-10-26 21:18:54,278 :INFO : test_loginpage :Succssfully fetched data from dataload
+2023-10-26 21:18:56,285 :INFO : test_loginpage :Enter The Valid Password
+2023-10-26 21:18:58,322 :INFO : test_loginpage :Click On Login Button
+2023-10-26 21:19:01,282 :INFO : test_loginpage :Login Page scrip successfully Executed
+2023-10-26 21:19:29,725 :INFO : test_verify_tasks :Task Scrip Statrted
+2023-10-26 21:19:38,045 :INFO : test_verify_tasks :None
+2023-10-26 21:19:51,207 :INFO : test_administror_changes :Script for Administror save changes
+2023-10-26 21:19:53,218 :INFO : test_administror_changes :Enter valid username
+2023-10-26 21:19:53,272 :INFO : test_administror_changes :Enter the valid password
+2023-10-26 21:19:55,326 :INFO : test_administror_changes :Click on Login Button
+2023-10-26 21:19:58,674 :INFO : test_administror_changes :Click On administror system
+2023-10-26 21:20:00,977 :INFO : test_administror_changes :set email id
+2023-10-26 21:20:20,433 :INFO : test_administror_changes :adminstror script executed successfully...
+2023-10-27 20:09:15,524 :INFO : test_loginpage :Valid Login Page Script started...
+2023-10-27 20:09:17,541 :INFO : test_loginpage :Enter the valid Username
+2023-10-27 20:09:17,578 :INFO : test_loginpage :Succssfully fetched data from dataload
+2023-10-27 20:09:19,586 :INFO : test_loginpage :Enter The Valid Password
+2023-10-27 20:09:21,616 :INFO : test_loginpage :Click On Login Button
+2023-10-27 20:09:25,386 :INFO : test_loginpage :Login Page scrip successfully Executed
+2023-10-27 20:09:51,670 :INFO : test_verify_tasks :Task Scrip Statrted
+2023-10-27 20:09:59,666 :INFO : test_verify_tasks :None
+2023-10-27 20:10:11,186 :INFO : test_administror_changes :Script for Administror save changes
+2023-10-27 20:10:13,197 :INFO : test_administror_changes :Enter valid username
+2023-10-27 20:10:13,232 :INFO : test_administror_changes :Enter the valid password
+2023-10-27 20:10:15,270 :INFO : test_administror_changes :Click on Login Button
+2023-10-27 20:10:18,066 :INFO : test_administror_changes :Click On administror system
+2023-10-27 20:10:20,314 :INFO : test_administror_changes :set email id
+2023-10-27 20:10:38,857 :INFO : test_administror_changes :adminstror script executed successfully...
